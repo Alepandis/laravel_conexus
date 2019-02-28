@@ -1,0 +1,14 @@
+.form-group .control-label:after {
+  color: #d00;
+  content: "*";
+  position: absolute;
+  margin-left: 4px;
+  top:1px;
+}
+
+.btn.btn-primary.form {
+  width: 150px;
+  background-color: #feda38;
+  color: black;
+  border-color: #feda38;
+}
